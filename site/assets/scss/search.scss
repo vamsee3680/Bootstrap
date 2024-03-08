@@ -1,4 +1,8 @@
 // stylelint-disable selector-class-pattern
+@import "../../../scss/functions";
+@import "../../../scss/variables";
+@import "../../../scss/mixins";
+@import "../scss/variables";
 
 @import "@docsearch/css/dist/style";
 
